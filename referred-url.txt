@@ -1,0 +1,1 @@
+https://github.com/bradtraversy/loginapp/blob/master/views/register.handlebars
